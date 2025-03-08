@@ -6,6 +6,13 @@ Originally posted by [GPLama](https://gplama.com/2019/09/19/wahoo-radar-custom-i
 Tested on: Wahoo ROAM v1 17031
 * might work on BOLT/ROAM V2 as well, test it at your own risk.
 
+<table>
+<tr>
+  <td>$${\color{green} \verb|**|text}$$</td>
+</tr>
+</table>
+
+|
 ![](/radar-icons/corn_icon.png?raw=true)
 ![](/radar-icons/mario-atari.png?raw=true)
 ![](/radar-icons/mario-mushroom.png?raw=true)
@@ -15,7 +22,8 @@ Tested on: Wahoo ROAM v1 17031
 ![](/radar-icons/poop.png?raw=true)
 ![](/radar-icons/skull.png?raw=true)
 ![](/radar-icons/skull_bones.png?raw=true)
-![](/radar-icons/skull_bones_2.png?raw=true)
+![](/radar-icons/skull_bones_2.png?raw=true)   |
+|---|
 
 ## Image Requirements:
 - format: PNG
