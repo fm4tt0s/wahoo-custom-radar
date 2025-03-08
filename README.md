@@ -8,6 +8,12 @@ Tested on: Wahoo ROAM v1 17031
 
 <table>
 <tr>
+  <td>$${\color{green} \verb|**|text}$$</td>
+</tr>
+</table>
+
+<table>
+<tr>
   <td>$${\background-color{green} \verb|**|![](/radar-icons/corn_icon.png?raw=true)
 ![](/radar-icons/mario-atari.png?raw=true)
 ![](/radar-icons/mario-mushroom.png?raw=true)
