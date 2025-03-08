@@ -33,5 +33,5 @@ Tested on: Wahoo ROAM v1 17031
 - simply delete the ***/wahooligan/*** folder and bounce the device
 
 ## Remarks
-- remember the background is either RED or YELLOW, so it might matter when deciding which icon to use. you could end up with something that's barely viewable. 
+- remember the radar strip background is either RED or ORANGE (greeen does'nt matter), so it matter when deciding which icon to use. you could end up with something that's barely viewable. 
 
