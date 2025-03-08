@@ -8,12 +8,7 @@ Tested on: Wahoo ROAM v1 17031
 
 <table>
 <tr>
-  <td>$${\color{green} \verb|**|text}$$</td>
-</tr>
-</table>
-
-|
-![](/radar-icons/corn_icon.png?raw=true)
+  <td>$${\background-color{green} \verb|**|![](/radar-icons/corn_icon.png?raw=true)
 ![](/radar-icons/mario-atari.png?raw=true)
 ![](/radar-icons/mario-mushroom.png?raw=true)
 ![](/radar-icons/monster.png?raw=true)
@@ -22,8 +17,9 @@ Tested on: Wahoo ROAM v1 17031
 ![](/radar-icons/poop.png?raw=true)
 ![](/radar-icons/skull.png?raw=true)
 ![](/radar-icons/skull_bones.png?raw=true)
-![](/radar-icons/skull_bones_2.png?raw=true)   |
-|---|
+![](/radar-icons/skull_bones_2.png?raw=true) }$$</td>
+</tr>
+</table>
 
 ## Image Requirements:
 - format: PNG
