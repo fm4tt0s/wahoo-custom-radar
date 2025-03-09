@@ -3,7 +3,7 @@ Custom Radar Icon for Wahoo Roam
 
 Originally posted by [GPLama](https://gplama.com/2019/09/19/wahoo-radar-custom-icons/)
 
-Tested on: Wahoo ROAM v1 17031
+Tested on **Wahoo ROAM v1 17031**
 * might work on BOLT/ROAM V2 as well, test it at your own risk.
 
 ![](/radar-icons/bored-pig.png?raw=true)
@@ -38,21 +38,36 @@ Tested on: Wahoo ROAM v1 17031
 ![](/radar-icons/sponge-bob.png?raw=true)
 ![](/radar-icons/t-rex.png?raw=true)
 
-## Image Requirements:
+## Image Requirements
 - format: PNG
 - background: transparent
 - size: 25x25px
 - name: radar_car.png
 
-## How to:
+## How to
 - connect the device to a computer
-- create ***/wahooligan/*** folder
+- create **/wahooligan/** folder
 - place the image on wahooligan folder
 - restart the device to take effect
 
-## Revert it back:
-- simply delete the ***/wahooligan/*** folder and bounce the device
+## Remarks
+### Enable ADB Mode
+You might face an issue where the device files does not appear on your computer, if so you need to enable/authorize ADB mode on the device.
+
+- connect the device
+- enable ADB mode by pressing the power button twice
+- disconnect and reconnect the USB cable
+
+* This method works on the **ELEMNT, BOLT, BOLT2 and ROAM**.
+
+If you have ADB installed you can check it's authorized by running 
+`adb devices`
+
+### If you're on MacOS
+If you're on MacOS, be aware that latest MacOS versions **do not recognize** the Wahoo device as an external driver and Android File Transfer tool is decommissioned, so what now? You can still install ADF thru [Homebrew](https://formulae.brew.sh/cask/android-file-transfer) - be aware of the caveats. 
+
+## Revert it back to original icon
+- simply delete the **/wahooligan/** folder and bounce the device
 
 ## Remarks
 - remember the radar strip background is either RED or ORANGE (greeen does'nt matter), so it matter when deciding which icon to use. you could end up with something that's barely viewable. 
-
