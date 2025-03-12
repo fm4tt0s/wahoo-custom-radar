@@ -11,7 +11,6 @@ Tested on **Wahoo ROAM v1 17031**
 ![](/radar-icons/cow-skull.png?raw=true)
 ![](/radar-icons/cow.png?raw=true)
 ![](/radar-icons/donnut.png?raw=true)
-![](/radar-icons/f1-car.png?raw=true)
 ![](/radar-icons/funny-shit.png?raw=true)
 ![](/radar-icons/homer.png?raw=true)
 ![](/radar-icons/mario-atari.png?raw=true)
@@ -37,6 +36,8 @@ Tested on **Wahoo ROAM v1 17031**
 ![](/radar-icons/sponge-bob-2.png?raw=true)
 ![](/radar-icons/sponge-bob.png?raw=true)
 ![](/radar-icons/t-rex.png?raw=true)
+![](/radar-icons/sonic.png?raw=true)
+![](/radar-icons/f1-car.png?raw=true)
 
 ## Image Requirements
 - format: PNG
