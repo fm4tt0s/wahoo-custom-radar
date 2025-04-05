@@ -1,8 +1,6 @@
 # Wahoo Elemnt Custom Radar Icon
 Custom Radar Icon for Wahoo Roam
 
-Originally posted by [GPLama](https://gplama.com/2019/09/19/wahoo-radar-custom-icons/)
-
 Tested on **Wahoo ROAM v1 17031**
 * might work on BOLT/ROAM V2 as well, test it at your own risk.
 
